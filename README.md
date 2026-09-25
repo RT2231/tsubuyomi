@@ -40,9 +40,9 @@
 
 ### Claude.ai(Web版・デスクトップアプリ)
 
-Pro・Max・Team・Enterpriseプランで利用できます(コード実行の有効化が必要)。
+Free・Pro・Max・Team・Enterpriseプランで利用できます(コード実行の有効化が必要)。
 
-1. このリポジトリを`.skill`(または`.zip`)にまとめてダウンロードする(すでにパッケージ済みの`.skill`ファイルをお使いください)
+1. このリポジトリ直下の [`tsubuyomi.skill`](./tsubuyomi.skill) をダウンロードする
 2. Claude.aiの **設定 → Capabilities(機能)** を開き、「コード実行とファイル作成」がオンになっていることを確認する
 3. Skillsの項目までスクロールし、「Upload skill(スキルをアップロード)」から、ダウンロードしたファイルを選ぶ
 4. 一覧に「tsubuyomi」が表示されたら、トグルをオンにする
